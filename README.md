@@ -8,7 +8,7 @@
 This repository contains all the assignments and solutions for the Elzero Web School PHP course.
 
 ## Study Plan PHP [ Link For All Weeks ]
- [Elzero Web School PHP Bootcamp 2021 Study Plan](https://elzero.org/study/mastering-php-study-plan/)
+ [Elzero Web School PHP Bootcamp 2021 Study Plan](https://elzero.org/study/php-bootcamp-2022-study-plan/)
 
 ## All Lessons Code [ Mastering PHP ]
  [ Mastering PHP ](https://elzero.org/study/php-bootcamp-2022-study-plan/)
