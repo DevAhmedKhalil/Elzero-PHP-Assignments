@@ -2,20 +2,24 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP Logo" width="120" height="120">
 </div>
 
+<div align="center">
+
 # Elzero Web School All Assignments For PHP
 This repository contains all the assignments and solutions for the Elzero Web School PHP course.
 
 ## Study Plan PHP [ Link For All Weeks ]
-- [Elzero Web School PHP Bootcamp 2021 Study Plan](https://elzero.org/study/mastering-php-study-plan/)
+ [Elzero Web School PHP Bootcamp 2021 Study Plan](https://elzero.org/study/mastering-php-study-plan/)
 
 ## All Lessons Code [ Mastering PHP ]
-- [ Mastering PHP ](https://elzero.org/study/php-bootcamp-2022-study-plan/)
+ [ Mastering PHP ](https://elzero.org/study/php-bootcamp-2022-study-plan/)
+
+</div>
 
 ---
 
-# 💥 All Assignments Solutions 💥
-
 <div align="center">
+  
+# 💥 All Assignments Solutions 💥
 
 | Weeks   | Solution |============| Weeks     | Solution |
 |---------|----------|------------|-----------|----------| 
